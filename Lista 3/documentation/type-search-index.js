@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"<Unnamed>","l":"Main"},{"p":"structures","l":"Pair"},{"p":"structures","l":"Set"},{"p":"structures","l":"SetInArray"},{"p":"structures","l":"SetInDynamicArray"}]
